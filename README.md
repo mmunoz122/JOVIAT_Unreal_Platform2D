@@ -27,8 +27,8 @@ Salir del juego.
 
 ## Manual
 
-Moverse: Teclas A, D
-Saltar: Barra de espacio
-Doble salto: Recoger powerapp correspondiente y dar saltos con barra espaciadora.
-Dash : Recoger powerapp y clicando "E" durante te mueves
-Salir del juego : Botón salir
+- Moverse: Teclas A, D
+- Saltar: Barra de espacio
+- Doble salto: Recoger powerapp correspondiente y dar saltos con barra espaciadora.
+- Dash : Recoger powerapp y clicando "E" durante te mueves
+-  Salir del juego : Botón salir
