@@ -13,7 +13,7 @@ Así, si pierde, no tiene que empezar desde cero, sino que puede seguir avanzand
 ## Elementos del Nivel
 Los niveles están pensados para ser variados y divertidos, pero también con su grado de dificultad. 
 
- - Hay elementos como:
+#- Hay elementos como:
 
 Trampolines, para llegar a zonas altas.
 Plataformas que se mueven, que hay que usar en el momento justo.
