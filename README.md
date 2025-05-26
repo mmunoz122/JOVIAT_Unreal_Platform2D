@@ -13,11 +13,11 @@ Así, si pierde, no tiene que empezar desde cero, sino que puede seguir avanzand
 ## Elementos del Nivel
 Los niveles están pensados para ser variados y divertidos, pero también con su grado de dificultad. 
 
-#- Hay elementos como:
+Hay elementos como:
 
-Trampolines, para llegar a zonas altas.
-Plataformas que se mueven, que hay que usar en el momento justo.
-Torretas enemigas, que disparan y le agregan más acción al juego.
+- Trampolines, para llegar a zonas altas.
+- Plataformas que se mueven, que hay que usar en el momento justo.
+- Torretas enemigas, que disparan y le agregan más acción al juego.
 
 ## Menú Principal
 Antes de jugar, el jugador entra en un menú principal, donde puede:
