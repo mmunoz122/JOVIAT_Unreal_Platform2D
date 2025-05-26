@@ -15,7 +15,6 @@ Los niveles están pensados para ser variados y divertidos, pero también con su
 
 Hay elementos como:
 
-- Trampolines, para llegar a zonas altas.
 - Plataformas que se mueven, que hay que usar en el momento justo.
 - Torretas enemigas, que disparan y le agregan más acción al juego.
 
